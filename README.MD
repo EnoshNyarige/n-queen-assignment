@@ -4,7 +4,7 @@
 
 - The Program takes an input for the desired board size .(n) 
 - The program also needs the user to insert the row positions for the queens in the boardconfiguration
-    - I had an issue with the input afterwards, the input is inverted -- starts from bottom to top, but everything else is okay
+    - I had an issue with the input afterwards, the input is inverted -- starts from bottom to top. Check the sample image
 
 - *As started in the handout, a queen is represented by an `x`, while the other locations are represented by `o`.*
 
