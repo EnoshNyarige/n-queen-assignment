@@ -19,3 +19,4 @@
 - If there is a solution available within 1000 iterations, the program will print out the result. 
 
 
+![image](https://user-images.githubusercontent.com/43353543/166127761-e1978ed2-24ec-4381-8672-9d26210cdeaa.png)
